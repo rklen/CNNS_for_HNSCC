@@ -1,1 +1,1 @@
-# CNNS_for_HNSCC
+# CNNs_for_HNSCC
